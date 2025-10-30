@@ -1,1 +1,1 @@
-# Logical_Modelling
+# Computational Approaches to Biology
